@@ -1,0 +1,14 @@
+# ~/.infinity_test or .infinity_test
+
+infinity_test do
+  use :rubies => %w(1.9.2-p180), :gemset => 'consulta', :app_framework => :rails, :test_framework => :rspec
+
+  notifications :growl do
+    show_images :mode => :simpson
+  end
+
+  before_run do
+    clear :terminal
+  end
+end
+

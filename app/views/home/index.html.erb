@@ -1,0 +1,20 @@
+<h1>ESCOLHA DA CONSULTA</h1>
+<div id="box-lista-consulta">
+  <ul id="lista-consulta">
+    <% @propostas.each do |proposta| %>
+      <li>
+        <p class="resumo"><%= proposta.titulo %></p>
+        <%=
+        if user_signed_in?
+          link_to "Contribuir", proposta_path(proposta)
+        end
+      %>
+      </li>
+    <% end %>
+  </ul>
+</div>
+<%=
+	if !user_signed_in?
+		link_to "Contribuir", login_path
+	end
+%>
