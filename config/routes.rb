@@ -17,4 +17,6 @@ Consulta::Application.routes.draw do
     end
   end
   resources :comentarios
+  
+  get "download_pdf" => "home#download_pdf"
 end
