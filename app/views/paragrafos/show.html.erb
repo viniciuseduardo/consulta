@@ -1,19 +1,7 @@
+<%= link_to "Voltar", diretrize_path(@diretriz) %>
 <h5>Paragrafo:</h5>
 <p><%= @paragrafo.texto %></p>
-<div id="formulario-comentario">
-	<ul>
-	<%= form_for(@paragrafo.comentarios.build) do |f| %>
-		<%= f.hidden_field :proposta_id, :value => @proposta.id.to_s%>
-		<%= f.hidden_field :paragrafo_id, :value => @paragrafo.id.to_s%>
-		<%= f.hidden_field :user_id, :value => current_user.id.to_s%>
-	  <li>Comentario:</li>
-	  <li><%= f.text_area(:texto) %></li>
-	  <li>Justificativa:</li>
-	  <li><%= f.text_area(:justificativa) %></li>
-	  <li><%= f.submit("Contribuir") %></li>
-	<% end %>
-	</ul>
-</div>
+    	<%= render @form %>
 <div id="comentarios">
 	<h4>Contribui&ccedil;&otilde;es</h4>
 	<ul>
@@ -24,11 +12,10 @@
 				<p><b>Contribuição:</b> <%= comentario.texto %></p>
 				<p><b>Justificativa:</b> <%= comentario.justificativa %></p>
 				<p><b>Data:</b> <%= comentario.created_at %></p>
-				<p><b>Por:</b> <%= comentario.user.email %></p>
+				<p><b>Por:</b> <%= comentario.user.nome %></p>
 			</li>
 		<% 	end 
 		end
 		%>
 	</ul>
 </div>
-<%= link_to "Voltar", proposta_path(@proposta) %>

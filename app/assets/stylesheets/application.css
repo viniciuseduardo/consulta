@@ -1,7 +1,17 @@
-/*
- * This is a manifest file that'll automatically include all the stylesheets available in this directory
- * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
- * the top of the compiled file, but it's generally better to create a new file per style scope.
- *= require_self
- *= require_tree . 
-*/
+.introducao{
+	padding-left: 30px;
+	margin-right: 60px;
+}
+.introducao p{
+	text-align: justify;
+}
+.hmenu{
+	font-size: 20px;
+	margin-top: 10px; 
+	padding-left: 490px;
+	list-style: none outside none;
+}
+.hmenu li{
+	display: inline;
+	padding-right: 15px;
+}

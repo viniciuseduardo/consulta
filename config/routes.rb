@@ -8,9 +8,13 @@ Consulta::Application.routes.draw do
     get "/recuperar_senha" => "devise/passwords#new", :as => "reset_password"
   end
   
-  resources :propostas do
-    resources :paragrafos
+  resources :diretrizes do
+    resources :eixos do
+      resources :acoes do
+        resources :estrategias
+        resources :atores
+      end
+    end
   end
-  
   resources :comentarios
 end

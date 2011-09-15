@@ -6,13 +6,11 @@
     <%= csrf_meta_tag %>
   </head>
   <body>
-  <ul class="hmenu">
-    <%= render 'shared/menu_items' %>
-    </ul>
-    <%- flash.each do |name, msg| -%>
-      <%= content_tag :div, msg, :id => "flash_#{name}" if msg.is_a?(String) %>
-    <%- end -%>
-
+	<div class="menu">
+	  	<ul class="hmenu">
+	    	<%= render 'shared/menu_items' %>
+	    </ul>
+	</div>
     <%= yield %>
 
   	<%= javascript_include_tag "application" %>
