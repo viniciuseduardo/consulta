@@ -1,16 +1,16 @@
 <li>
-	<%= link_to("Home", root_path) %>
+	<%= link_to("Página Inicial", root_path) %>
 </li>
 <% if user_signed_in? %>
   <li>
-  	<%= link_to("Escolha Consulta", diretrizes_path) %>
+  	<%= link_to("Ver Documento", diretrizes_path) %>
   </li>
   <li>
     <%= link_to("Sair", logout_path) %>
   </li>
 <% else %>
   <li>
-    <%= link_to("Login", login_path)  %>
+    <%= link_to("Entrar", login_path)  %>
   </li>
   <li>
     <%= link_to("Cadastrar", join_path)  %>
