@@ -1,14 +1,30 @@
 <div id="box-lista-consulta">
-  <ul id="lista-consulta">
+  <table class="sample">
+	<colgroup>
+		<col width="600">
+	</colgroup>	
+	<thead>
+		<tr valign="TOP">
+			<td colspan="2">
+				<p align="CENTER" style="font-style: normal"><font face="Arial, sans-serif"><b>Diretriz</b></font></p>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
     <% @diretrizes.each do |diretriz| %>
-      <li>
-        <p class="resumo"><%= diretriz.titulo %></p>
+      <tr>
+		<td>
+        	<p class="resumo"><%= diretriz.titulo %></p>
+		</td>
+		<td>
         <%=
         if user_signed_in?
           link_to "Contribuir", diretrize_path(diretriz)
         end
-      %>
-      </li>
+      	%>
+		</td>
+      </tr>
     <% end %>
-  </ul>
+	</tbody>
+  </table>
 </div>
