@@ -1,0 +1,16 @@
+<div id="formulario-comentario">
+	<ul>
+	<%= form_for(@comentarios) do |f| %>
+		<%= f.hidden_field :diretrize_id, :value => @diretriz.id.to_s%>
+		<%= f.hidden_field :eixo_id, :value => @eixo.id.to_s%>
+		<%= f.hidden_field :acao_id, :value => @paragrafo.id.to_s%>
+		<%= f.hidden_field :user_id, :value => current_user.id.to_s%>
+		<%= f.hidden_field :tipo, :value => @paragrafo._type.to_s%>
+	  <li>Comentario:</li>
+	  <li><%= f.text_area(:texto) %></li>
+	  <li>Justificativa:</li>
+	  <li><%= f.text_area(:justificativa) %></li>
+	  <li><%= f.submit("Contribuir") %></li>
+	<% end %>
+	</ul>
+</div>

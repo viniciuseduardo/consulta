@@ -1,0 +1,14 @@
+<div id="box-lista-consulta">
+  <ul id="lista-consulta">
+    <% @diretrizes.each do |diretriz| %>
+      <li>
+        <p class="resumo"><%= diretriz.titulo %></p>
+        <%=
+        if user_signed_in?
+          link_to "Contribuir", diretrize_path(diretriz)
+        end
+      %>
+      </li>
+    <% end %>
+  </ul>
+</div>
