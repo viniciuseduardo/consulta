@@ -1,10 +1,10 @@
 <li>
 	<%= link_to("Página Inicial", root_path) %>
 </li>
+<li>
+	<%= link_to("Ver Documento", diretrizes_path) %>
+</li>
 <% if user_signed_in? %>
-  <li>
-  	<%= link_to("Ver Documento", diretrizes_path) %>
-  </li>
   <li>
     <%= link_to("Sair", logout_path) %>
   </li>
