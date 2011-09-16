@@ -1,4 +1,5 @@
 class AcoesController < ApplicationController
+  before_filter :authenticate_user!
   def show
     @diretriz = Diretriz.find(params[:diretrize_id])
     @eixo = @diretriz.eixos.find(params[:eixo_id])

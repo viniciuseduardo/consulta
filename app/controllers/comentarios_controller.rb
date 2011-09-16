@@ -1,4 +1,5 @@
 class ComentariosController < ApplicationController
+  before_filter :authenticate_user!
   def create
     @tipo = params[:comentario][:tipo]
     @diretriz = Diretriz.find(params[:comentario][:diretrize_id])
