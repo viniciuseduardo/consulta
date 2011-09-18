@@ -1,7 +1,7 @@
 class DiretrizesController < ApplicationController
   before_filter :authenticate_user!, :except => [:index]
   def index
-    @diretrizes = Diretriz.all
+    @diretrizes = Diretriz.all(sort: [[ :_id, :desc ]])
   end
 
   def show
