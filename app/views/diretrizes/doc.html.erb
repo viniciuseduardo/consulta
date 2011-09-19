@@ -1,0 +1,10 @@
+<P CLASS="western" ALIGN=CENTER STYLE="margin-bottom: 0cm">
+	<FONT FACE="Arial, sans-serif">
+		<B><%= @diretriz.titulo%></B>
+	</FONT>
+</P>
+<% @diretriz.paragrafos.each do |paragrafo|%>
+<p><%= paragrafo.texto%><p>
+<b><%= paragrafo.comentarios.count %> Contribuições</b>
+<%= link_to "Contribuir", diretrize_paragrafo_path(@diretriz,paragrafo) %>
+<% end%>

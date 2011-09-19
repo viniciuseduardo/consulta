@@ -620,314 +620,132 @@ dados = [ :diretriz => [
         ]
       }
     ]
-  },
-  {
-    :titulo => "",
-    :paragrafo => [
-      {
-        Apresentação
-
-        A Política Nacional de Alimentação e Nutrição, publicada por meio da Portaria n.o 710 em junho de 1999 e referendada em 2003, consolidou-se como uma política setorial que instituiu diretrizes orientadoras com vistas a assegurar o Direito Humano à Alimentação Adequada (DHAA). Constitui-se na contribuição do setor saúde para a Política de Segurança Alimentar e Nutricional do país, instituída em 2010. 
-        No ano de 2009, em um contexto comemorativo aos dez anos de publicação da PNAN e dos debates em torno da necessidade de sua atualização frente aos avanços e desafios ocorridos ao longo de sua trajetória, a cidade do Rio de Janeiro iniciou o processo de formulação da Política Municipal de Alimentação e Nutrição (PMAN). Este movimento refletiu o amadurecimento da implementação das diretrizes nacionais na cidade em um momento político favorável para a inserção da Alimentação e Nutrição na agenda do Sistema Único de Saúde (SUS) e para a temática de Segurança Alimentar e Nutricional (SAN) nos últimos anos. Esse momento se expressou na publicação da Política Nacional de Atenção Básica, da Política Nacional de Promoção da Saúde e da Lei Orgânica de Segurança Alimentar e Nutricional, em 2006; da Política Nacional de Segurança Alimentar e Nutricional e da mobilização em torno da Emenda Constitucional n.o 64 – ambas aprovadas em 2010 – além da própria revisão da Política Nacional de Alimentação e Nutrição, iniciada neste mesmo ano.
-        Ao publicar a PMAN, a cidade do Rio de Janeiro ratifica o compromisso do setor saúde com a área de Alimentação e Nutrição, refletindo o amadurecimento do papel da saúde na agenda da SAN. Dada a complexidade dessa área, o objeto desta Política é necessariamente transversal, interdisciplinar e intersetorial. Assim, sendo uma política do setor saúde, a PMAN tem como desafio dialogar com outras políticas deste setor e com as demais políticas públicas desenvolvidas na cidade.
-
-
-
-
-
-
-        Portaria
-        Portaria n.o XXX, de XXX de XXX de 2011.
-
-        Aprova a Política Municipal de Alimentação e Nutrição.
-
-        O Secretário Municipal de Saúde e Defesa Civil, no uso de suas atribuições, e
-        Considerando que a Constituição da República Federativa do Brasil de 1988 estabelece, em seu artigo n.o 196, a saúde como um direito de todos e dever do Estado;
-        Considerando que a Lei n.o 8.080 de 1990 define a alimentação como um dos fatores determinantes e condicionantes da saúde;
-        Considerando a aprovação da Emenda Constitucional n.o 64 de 2010, que incluiu a alimentação como direito social; 
-        Considerando o compromisso do Brasil em promover o Direito Humano à Alimentação Adequada, conforme expresso em diferentes normas legais e documentos internacionais dos quais o país é signatário;
-        Considerando a Política Nacional de Alimentação e Nutrição, cujo propósito é “promover estado nutricional adequado, prevenir agravos relacionados à alimentação e nutrição, promover práticas alimentares adequadas e saudáveis e atuar na recuperação da saúde da população brasileira” (esse é o novo propósito);
-        Considerando que o setor saúde deve dispor de uma política expressa relacionada à alimentação e nutrição, resolve:
-        Art. 1.o Aprovar a Política Municipal de Alimentação e Nutrição, cuja íntegra consta do anexo desta Portaria e dela é parte integrante.
-        Art. 2.o Determinar que os órgãos e entidades da Secretaria Municipal de Saúde e Defesa Civil, cujas ações se relacionem com o tema objeto da Política ora aprovada, promovam a elaboração ou a adequação de seus planos, programas, projetos e ações em conformidade com as diretrizes nela estabelecidas.
-        Art. 3.o Esta Portaria entra em vigor na data de sua publicação.
-        Hans Fernando Rocha Dohmann
-        Secretário Municipal de Saúde e Defesa Civil
-        Introdução
-
-        A formulação da PMAN considerou como pressuposto que cabe à Área Técnica de Alimentação e Nutrição da cidade do Rio de Janeiro formular políticas públicas contextualizadas às especificidades de seu território, além de planejar, implementar e avaliar as ações propostas pela esfera nacional. Nesse sentido, a publicação da PMAN visa à expansão, ao fortalecimento, à qualificação e à normatização das ações de alimentação e nutrição no âmbito municipal, bem como sua integração com outras ações e políticas que a potencializem. Constitui-se, ainda, em uma referência técnica, política e ética para os profissionais que atuam no setor saúde, na perspectiva da realização do DHAA. 
-        A alimentação saudável e adequada é considerada um dos direitos humanos fundamentais e, como tal, está legitimada por diversos mecanismos legais, documentos e pactos internacionais dos quais o Brasil é signatário, tais como a Declaração Universal dos Direitos Humanos, de 1948; o Pacto Internacional de Direitos Humanos, Econômicos, Sociais e Culturais, de 1966, e as Diretrizes Voluntárias sobre a realização progressiva do DHAA no contexto da SAN, aprovadas em 2004 1-4. É também reconhecido como uma condição para a concretização dos Objetivos de Desenvolvimento do Milênio. Com este compromisso, o Brasil incluiu o DHAA entre os direitos sociais em sua Constituição Federal de 1988 5 por meio da aprovação da Emenda Constitucional n.o 64, de 2010 6, e formulou a Política Nacional de Segurança Alimentar e Nutricional, publicada pelo Decreto n.o 7.272, de 2010 7. 
-        Além dessas bases legais, no âmbito do setor saúde, outras políticas também embasam a proposição da PMAN, identificando a área de Alimentação e Nutrição como prioridade política e ação estratégica. Entre elas, destacam-se: a Política Nacional de Alimentação e Nutrição 8, o Pacto pela Saúde (Portaria n.o 399, de 2006) 9, a Política Nacional de Promoção da Saúde (Portaria n.o 687, de 2006) 10 e a Política Nacional de Atenção Básica (Portaria n.o 648, de 2006) 11. 
-        Face ao caráter interdependente, inalienável e indivisível dos direitos humanos, para a concretização do DHAA, é necessária a garantia dos demais direitos, como a saúde, a educação, o trabalho, a moradia digna, o saneamento básico, o acesso à terra, à renda e à água potável, de forma regular e permanente. Neste sentido, a plena realização da PMAN pressupõe a existência de outras políticas públicas dirigidas à garantia dos demais direitos 2, 3. 
-        Além das estratégias voltadas para a garantia do direito de estar livre da fome, o direito à alimentação adequada também apresenta-se como desafio para as políticas públicas da atualidade face às mudanças ocorridas no padrão alimentar e no perfil nutricional da população. Na última década, no Brasil, tendo por base a disponibilidade intradomiciliar de alimentos e levando-se em conta a participação percentual dos alimentos ou grupos de alimentos na quantidade total de calorias disponíveis no domicílio, foram registrados: persistência de um teor excessivo de açúcar; aumento no aporte relativo de gorduras em geral e de gorduras saturadas; baixo consumo de frutas e hortaliças; diminuição da participação de arroz, feijão e farinha de mandioca e aumento da participação relativa de alimentos processados prontos para consumo (pães, embutidos, biscoitos, refrigerantes, refeições prontas) 12.
-        Quanto ao estado nutricional, o país apresenta declínio acelerado na prevalência da desnutrição energético-protéica em crianças e adultos em todos os estratos econômicos sem, contudo, superar plenamente este agravo. Ao mesmo tempo, se observa aumento significativo do sobrepeso e da obesidade em todos os segmentos da população, além de outras doenças e agravos não transmissíveis (DANT), como o diabetes mellitus, a hipertensão arterial sistêmica e diversos tipos de câncer 13.
-        Ainda que não se disponha de dados detalhados sobre o padrão alimentar da população carioca em seu conjunto, as informações disponíveis sugerem que a cidade do Rio de Janeiro acompanha a tendência nacional, apresentando o cenário descrito a seguir. Entre crianças, tem-se registrado aumento do aleitamento materno exclusivo em menores de seis meses de idade (de 13,8 para 41,0%) no período de 1996 a 2008. Por outro lado, ainda são frequentes a introdução precoce de outros alimentos que não o leite materno e o manejo inadequado da alimentação complementar, seja em relação à diversidade seja em relação à consistência dos alimentos e refeições oferecidas 14, 15. 
-        Entre os adolescentes cariocas alunos de escolas públicas municipais, observou-se, em 2007, o seguinte cenário para marcadores de alimentação saudável: 14,2% consumiam regularmente# saladas; 16,8%, legumes cozidos; 22,9%, frutas; 46,6%, leite e 75,7%, feijão. Já em relação aos marcadores de alimentação não saudável, foi registrado que 45,5% consumiam regularmente doces e balas; 40,7%, refrigerantes; 30,2%, biscoitos doces; 23,7%, biscoitos salgados e 20,3%, hambúrgueres. Soma-se a esses resultados, um panorama desfavorável em relação à prática regular de atividade física e lazer sedentário: somente 31,7% dos alunos acumulavam, pelo menos, 300 minutos de atividade física por semana (recomendação mínima para esta faixa etária), 5,8% eram totalmente inativos e somente 14,5% atendiam à recomendação de alocar menos de duas horas por dia em frente à televisão 16. 
-        Quanto ao perfil alimentar de adultos da cidade do Rio de Janeiro, foi encontrado, em 2010, que 29,3% consumiam regularmente frutas e hortaliças; 73,6%, feijão; e 32,2%, refrigerantes. Além disso, 27,5% relataram hábito de consumir carne com excesso de gordura# e 54,5%, leite com teor integral de gordura. No tocante à prática de atividade física, 31,5% acumulavam pelo menos 150 minutos dessas atividades por semana e 14,8% eram totalmente inativos. Quanto ao lazer sedentário, 31,9% assistiam à televisão por, pelo menos, três horas por dia 17.
-        Segundo informações do Sistema de Vigilância Alimentar e Nutricional (SISVAN), cujos dados da cidade advêm fundamentalmente de usuários do Programa Bolsa Família, em 2010, 9,7% das crianças menores de sete anos de idade apresentavam baixa estatura para idade#; 5,7%, magreza e 32,3%, excesso de peso# 18. Entre adolescentes, inquérito realizado em 2009 com estudantes de escolas públicas e privadas da cidade do Rio de Janeiro registrou 2,5% de baixo peso e 27,2% de excesso de peso# 19. Entre os adultos, segundo dados do sistema de monitoramento de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (VIGITEL) em 2010, 52,7% apresentavam excesso de peso e 16,4%, obesidade# 17.
-        Além do perfil alimentar e nutricional observado, outro desafio para as políticas públicas de alimentação e nutrição é o fato de a cidade ser uma grande metrópole com uma densa rede de serviços de saúde. Compõe essa rede: Unidades de Alta Complexidade (hospitais gerais, de emergência, psiquiátricos, pediátricos, geriátrico, maternidades de baixo e alto risco), Casa de Parto, Unidades de Pronto Atendimento, Centros de Atenção Psicossocial, Policlínicas, Centros Municipais de Saúde e Clínicas de Saúde da Família. Destaca-se, ainda, a ampliação em curso da Estratégia de Saúde da Família e a implantação dos Núcleos de Apoio à Saúde da Família (NASF) na cidade. 
-        Somada a tais características, a cidade conta ainda com o Instituto de Nutrição Annes Dias (INAD), órgão responsável pela coordenação da Área Técnica de Alimentação e Nutrição, institucionalizada com base nas diretrizes expostas na Política Nacional de Alimentação e Nutrição. Criado pelo Decreto n.o 13.555, de 13 de outubro de 1956 20, o INAD assumiu, até 1995, a função de responsável técnico pelo Programa de Alimentação Escolar desenvolvido na rede municipal de educação. No momento em que foi transferido para a Secretaria Municipal de Saúde e Defesa Civil pelo Decreto n.o 13.795 de abril de 1995 21, houve ampliação de sua missão institucional e de suas atribuições, formalizada pelo Decreto n.o 15.441 de 20 de dezembro de 1996 22, assumindo a gestão das ações de alimentação e nutrição desenvolvidas no município.  
-        Atualmente, o INAD está alocado na Superintendência de Promoção da Saúde, da Subsecretaria de Atenção Primária, Vigilância e Promoção da Saúde (SUBPAV), da Secretaria Municipal de Saúde e Defesa Civil (SMSDC) e desenvolve ações com outros setores e instituições da municipalidade. Segundo o Decreto n.o 32.673, de 19 de agosto de 2010 23, caberá ao INAD o papel de coordenação da PMAN.
-        Este é o contexto no qual foram definidas as prioridades e as ações que serão objeto desta Política face à necessidade de se consolidar uma agenda de alimentação e nutrição na cidade que dê resposta à complexidade do perfil alimentar e nutricional, e sua interrelação com a saúde da população. 
-
-
-
-
-
-        Processo de construção da Política Municipal de Alimentação e Nutrição
-
-        A construção da PMAN consistiu em um processo participativo e democrático que envolveu atores e instituições governamentais e não-governamentais. Foi liderado pela Área Técnica de Alimentação e Nutrição do município do Rio de Janeiro – o INAD – e agregou diferentes atores da sociedade civil organizada e do Poder Público, além de estudantes, profissionais de saúde e de áreas afins, e instituições acadêmicas. Entre elas, cabe ressaltar, o Instituto de Nutrição da Universidade do Estado do Rio de Janeiro (UERJ), por meio do Programa Nacional de Reorientação da Formação Profissional em Saúde (Pró-Saúde), que apoiou o delineamento da formulação da PMAN e as ações envolvidas neste processo, como seminários, grupos de trabalho, oficinas e redação dos documentos relacionados à Política.
-        Iniciado com a realização do seminário “Para pensar a Política Municipal de Alimentação e Nutrição”, em junho de 2009, o processo de formulação da PMAN prosseguiu com a formação de seis Grupos de Trabalho temáticos, orientados pelas diretrizes da Política Nacional de Alimentação e Nutrição e compostos por atores que se propuseram a participar de um contínuo processo de discussão e de aprofundamento das questões apontadas no seminário. Esse processo de trabalho também contou com a contribuição de nutricionistas da rede municipal de saúde em fóruns de discussão e com consultas a especialistas, instituições afins à área de alimentação e nutrição e instâncias de controle social. 
-        Em maio de 2011, foi realizada a Oficina “Controle social e a PMAN”, com o intuito de subsidiar a construção dos aspectos referentes ao controle social na PMAN. Neste momento, foram convidados representantes do Conselho Municipal de Saúde (COMS), do Conselho Municipal de Segurança Alimentar e Nutricional (CONSEA-Rio) e do Conselho Municipal de Alimentação Escolar (CAE). Posteriormente, foi realizada uma oficina consultiva, com especialistas cuja atuação tivesse interface com o objeto da Política. Participaram organizações da sociedade civil organizada, SMSDC (INAD, representantes de gerências de programas, nutricionistas da rede hospitalar municipal), o Centro de Segurança Alimentar da Fazenda Modelo (CSAFM) da Escola Carioca de Agricultura Familiar (ECAF), instituições de ensino e de pesquisa, além do Instituto Nacional do Câncer (INCA), da Organização Panamericana de Saúde (OPAS) e da Coordenação Geral de Alimentação e Nutrição (CGAN). 
-        (completar com consulta pública)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Princípios gerais
-
-        A PMAN concretiza a Política Nacional de Alimentação e Nutrição na cidade do Rio de Janeiro e assume como princípios gerais: os princípios do Sistema Único de Saúde instituídos pela Lei n.o 8.080/1990 24; a garantia da Segurança Alimentar e Nutricional da população no contexto do Direito Humano à Alimentação Adequada, incluindo o respeito à soberania alimentar e a sustentabilidade sócio-ambiental; o respeito à diversidade; a humanização; a ação interdisciplinar e intersetorial; o direito à informação e a promoção da autonomia dos indivíduos; a construção coletiva, a gestão participativa e a transparência nos processos de trabalho; a sustentabilidade das ações e a independência da PMAN em relação aos setores e instituições que tenham interesses conflitantes com a área de Alimentação e Nutrição em Saúde Coletiva. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Propósito 
-
-        Estimular, apoiar e proteger a alimentação adequada e saudável e realizar ações de prevenção de agravos relacionados à alimentação e nutrição e de cuidado da saúde, em todas as fases do curso da vida, promovendo o estado nutricional adequado e a melhoria da qualidade de vida da população, a fim de concretizar, desta maneira, o papel do setor saúde na garantia do Direito Humano à Alimentação Adequada na cidade do Rio de Janeiro. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Diretrizes 
-
-        Cooperação e articulação para promoção do acesso universal à alimentação adequada e saudável
-        Esta diretriz concretiza a compreensão de que a promoção do acesso universal aos alimentos exige a realização de ações intra e intersetoriais articuladas. Nesse sentido, considera que o setor saúde deverá se articular com outros setores e instituições existentes na municipalidade para implementar e fortalecer as propostas aqui previstas. Além disso, estabelece as ações necessárias para garantir o acesso à alimentação saudável nos programas de alimentação e nutrição desenvolvidos na municipalidade, com especial atenção ao atendimento das necessidades alimentares especiais dos cariocas. Desta forma, os eixos previstos nesta diretriz da PMAN são: Articulação para a realização de ações intra e intersetoriais; Universalização e aprimoramento dos programas de alimentação e nutrição; Atenção aos grupos populacionais com necessidades alimentares especiais e em situações de desastres naturais.
-
-        Organização e implementação do cuidado nutricional com vistas à prevenção, ao acompanhamento e ao controle dos agravos nutricionais e os relacionados à alimentação e nutrição
-        Esta diretriz volta-se para os programas e ações de alimentação e nutrição que deverão ser implementados e fortalecidos no setor saúde, a fim de garantir a adequada atenção nutricional a indivíduos sadios e enfermos. Contempla os serviços de saúde dos diferentes níveis de complexidade do SUS e também o nível central, ou seja, a gestão das ações de alimentação e nutrição desenvolvidas no município. Neste sentido, contempla os seguintes eixos de atuação: Implementação do cuidado nutricional nas redes de atenção à saúde nas diferentes fases do curso da vida; Garantia do direito à alimentação adequada nos agravos nutricionais e os relacionados à alimentação e nutricionais e nas necessidades alimentares especiais; Organização das ações de alimentação e nutrição nos diferentes níveis de complexidade do SUS.
-
-        Garantia da segurança, da qualidade do alimento e da prestação de serviços de alimentação e nutrição
-        Nesta diretriz, a preocupação volta-se especialmente para ações de fiscalização, de monitoramento e de orientação de serviços de alimentação e nutrição da municipalidade. Os eixos são: Acesso à informação sobre as boas práticas no sistema agroalimentar; Fiscalização e monitoramento da qualidade dos alimentos em todo sistema agroalimentar; Garantia da qualidade do Leite Humano ordenhado. 
-
-        Promoção de alimentação adequada e saudável
-        Esta diretriz contempla as ações de promoção de práticas alimentares e de estilos de vida saudáveis, compreendendo o aleitamento materno como a primeira prática de alimentação saudável da vida. Considera que a promoção da alimentação saudável inclui não apenas as ações voltadas ao incentivo, tradicionalmente utilizadas no âmbito dos serviços de saúde, como também àquelas que visam a garantir o apoio e a proteção das práticas e dos estilos de vida saudáveis adotados pelos cariocas. Neste sentido, contempla os seguintes eixos de atuação: Incentivo à PAS; Apoio à alimentação saudável; Proteção da alimentação saudável.
-
-        Monitoramento e sistemas de informação
-        Nesta diretriz, a atenção volta-se à implementação e à consolidação das ações de vigilância alimentar e nutricional da população carioca, incluindo o fortalecimento do Sistema de Vigilância Alimentar e Nutricional e sua expansão para indivíduos em todas as fases do curso da vida. Tem como eixo: Monitoramento da situação alimentar e nutricional da população. 
-
-        Estímulo à pesquisa, inovação, produção e difusão do conhecimento relacionado à área de Alimentação e Nutrição
-        Esta diretriz provoca a integração entre as universidades, centros de pesquisa e outros atores, como movimentos sociais, com o serviço, no sentido de definir prioridades de pesquisa e de qualificar as ações de alimentação e nutrição desenvolvidas na cidade. Expressa o compromisso com a democratização do conhecimento, sendo uma diretriz transversal, que deve permear e apoiar a concretização das demais diretrizes. Volta-se para a pesquisa aplicada, adotando-se como linhas de investigação norteadoras: o perfil e monitoramento da saúde, alimentação e nutrição dos públicos de interesse para as políticas públicas de Alimentação e Nutrição; o monitoramento e a avaliação de processo bem como do impacto de ações, programas e políticas e o delineamento e a experimentação de modelos e de tecnologias inovadores. Esta diretriz apresenta como eixos: Definição de prioridades e promoção de oportunidades de pesquisa; Democratização do conhecimento produzido; Financiamento.
-
-        Formação e qualificação da força de trabalho
-        Esta diretriz aponta que a formação e a qualificação dos profissionais cuja atuação tenha interface com a área de Alimentação e Nutrição constitui uma responsabilidade compartilhada entre academia e serviço, defendendo e valorizando a aprendizagem no trabalho. É também uma diretriz transversal, que deve apoiar as outras diretrizes da PMAN. Apresenta como proposta a reorientação das práticas profissionais de atenção à saúde baseadas na reflexão crítica. Os eixos são: Formação para o serviço; Integração academia-serviço. 
-
-        Institucionalização da PMAN
-        Esta diretriz aborda questões referentes à institucionalidade da PMAN, incluindo aspectos referentes ao financiamento, relações com outros setores e outras instâncias de governo, além da participação e do controle social da PMAN e do monitoramento e da avaliação das ações propostas. É constituída pelos seguintes eixos: Desenvolvimento institucional; Participação e controle social; Monitoramento e avaliação da PMAN. 
-
-
-
-
-
-
-
-
-
-
-        Responsabilidades institucionais
-
-        Responsabilidades da SMSDC: 
-        1) Planejar, implementar e avaliar a Política Municipal de Alimentação e Nutrição.
-        2) Ampliar e qualificar a rede municipal de serviços de alimentação e nutrição em todos os níveis de atenção à saúde. 
-        3) Pautar a agenda de alimentação e nutrição junto a outros setores da municipalidade, instituições públicas e privadas e instâncias de controle social. 
-        4) Promover a articulação necessária com setores da municipalidade e outras instituições para a implementação da PMAN.  
-        5) Produzir, sistematizar e divulgar informações que subsidiem tanto a elaboração de políticas do setor saúde e de outros setores, quanto o monitoramento de sua efetividade, na área de alimentação e nutrição.
-        6) Estimular a participação social para o controle, a fiscalização, o monitoramento e a avaliação da PMAN. 
-        7) Garantir a estrutura organizacional da Área Técnica de Alimentação e Nutrição.
-
-         Compete ao INAD:
-        1) Coordenar a implementação e a avaliação da PMAN, articulando ações intra e intersetoriais. 
-        2) Planejar, implementar e avaliar os programas e as ações de alimentação e nutrição no âmbito do setor saúde.
-        3) Planejar, normatizar, implementar, acompanhar e avaliar os serviços de alimentação e nutrição nas unidades da rede municipal de saúde, contemplando ações de promoção de saúde, de prevenção e de controle de doenças relacionadas à alimentação e nutrição e de intervenção nutricional da população hospitalizada e daquela atendida no âmbito ambulatorial.
-        4) Organizar a rede municipal de serviços de alimentação e nutrição de forma regionalizada, de acordo com os níveis de complexidade de atenção e centrada nas necessidades dos usuários. 
-        5) Normatizar e assessorar o planejamento e a execução dos programas de alimentação e nutrição dirigidos a coletividades desenvolvidos no âmbito da Prefeitura da Cidade do Rio de Janeiro (PCRJ), subsidiando tecnicamente os projetos de infraestrutura das unidades de alimentação e nutrição, os processos de aquisição de gêneros alimentícios e produtos alimentícios/nutricionais, de produção de refeições e de contratação de serviços; 
-        6) Normatizar e executar ações de controle de qualidade de gêneros alimentícios e produtos alimentícios/nutricionais, serviços e refeições dos programas municipais de alimentação e nutrição;
-         7) Fomentar, realizar e divulgar pesquisas na área de alimentação, nutrição e saúde; 
-        8) Planejar, coordenar e acompanhar as atividades de caráter técnico, científico e cultural inerentes à Área Técnica de Alimentação e Nutrição.
-
-        À SMSDC caberá se articular com demais setores da municipalidade, a fim de implementar as ações propostas na PMAN na cidade do Rio de Janeiro. O estabelecimento de parcerias intra e intersetoriais se dará no sentido de concretizar o propósito que a PMAN assume neste documento: “Estimular, apoiar e proteger a alimentação adequada e saudável e realizar ações de prevenção de agravos relacionados à alimentação e nutrição e de cuidado da saúde, em todas as fases do curso da vida, promovendo o estado nutricional adequado e a melhoria da qualidade de vida da população, a fim de concretizar, desta maneira, o papel do setor saúde na garantia do Direito Humano à Alimentação Adequada na cidade do Rio de Janeiro”. Foram identificadas questões prioritárias, bem como setores estratégicos para a implementação da Política. 
-
-        Conselho Municipal de Saúde (COMS), Conselho Municipal de Alimentação Escolar (CAE) e Conselho Municipal de Segurança Alimentar e Nutricional (CONSEA) 
-        Esta parceria buscará estimular, apoiar e subsidiar as ações de monitoramento e de fiscalização das instâncias de controle social cuja atuação tenha interface com as diretrizes da PMAN. 
-
-        Secretaria Especial de Desenvolvimento Econômico e Solidário (SEDES)
-        A parceria com esta Secretaria buscará apoiar as iniciativas de promoção do acesso da população ao alimento saudável por meio do circuito carioca de feiras orgânicas e articulação com outras ações de economia solidária.
-
-        Secretaria Especial de Envelhecimento Saudável e Qualidade de Vida (SESQV)
-        A articulação visará fortalecer as estratégias de promoção de alimentação saudável coadunadas com as ações desenvolvidas por esta Secretaria.
-
-        Secretaria Especial de Ordem Pública (SEOP)
-        A parceria com esta Secretaria buscará apoiar as iniciativas de promoção do acesso da população ao alimento saudável por meio de feiras livres.
-
-        Secretaria Municipal de Assistência Social (SMAS)
-        A articulação com esta Secretaria buscará:
-        - identificar situações de insegurança alimentar e nutricional e desenvolver estratégias conjuntas de acompanhamento da população em situação de vulnerabilidade social. 
-        - apoiar o delineamento e a realização de estudos e pesquisas na área de alimentação e nutrição voltada à população atendida por esta Secretaria. 
-        - apoiar a formação de profissionais sobre temáticas de interesse para a área de alimentação e nutrição, inclusive sobre a garantia do DHAA e mecanismos de exigibilidade. 
-
-        Secretaria Municipal de Cultura (SMC)
-        A parceria com esta Secretaria visará valorizar a cultura alimentar brasileira por meio da difusão, reconhecimento e resgate de práticas culinárias tradicionais, com destaque para a cultura carioca. 
-
-        Secretaria Municipal de Educação (SME)
-        A parceria com esta Secretaria visará:
-        - à permanente qualificação do Programa de Alimentação Escolar.
-        - incluir temáticas relacionadas à saúde e à alimentação e nutrição nos currículos escolares. 
-        - estimular e apoiar a realização de ações educativas voltadas para a promoção da alimentação saudável na comunidade escolar. 
-        - favorecer o desenvolvimento de ações que promovam e garantam a adoção de práticas alimentares mais saudáveis no ambiente escolar.
-        - subsidiar a formação dos profissionais de educação sobre temáticas de interesse para a área de alimentação e nutrição.
-
-        Secretaria Municipal de Esporte e Lazer (SMEL)
-        A parceria com esta Secretaria visará promover a saúde da população com a sinergia das ações de esporte e de lazer e da alimentação saudável na cidade. 
-
-        Secretaria Municipal de Meio Ambiente (SMAC)
-        A parceria com esta Secretaria buscará apoiar as iniciativas de promoção da agricultura urbana como estratégia de promoção de alimentação saudável.
-
-        Secretaria Municipal de Pessoa com Deficiência (SMPD)
-          A parceria com esta Secretaria buscará a proposição e realização de ações voltadas ao acesso à alimentação adequada das pessoas com deficiência. 
-
-        Secretaria Municipal do Trabalho e Emprego (SMTE)
-        A parceria com esta Secretaria visará à implementação, ao monitoramento e à avaliação do Programa de Alimentação do Trabalhador na PCRJ.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Acompanhamento e avaliação
-
-        O processo de acompanhamento e de avaliação da PMAN – essencial para a produção de informações que possam qualificar e subsidiar o processo decisório – deverá ocorrer de maneira democrática e transparente, envolvendo atores e instituições cuja atuação esteja relacionada ao objeto desta Política. Nesse sentido, deverá incluir, além da gestão municipal e dos setores relacionados, as instâncias de controle social, as instituições de ensino e de pesquisa e as organizações da sociedade civil. Para tanto, deverão ser criadas oportunidades e fóruns, incluindo a constituição do “Observatório da PMAN”, que alimentarão o processo decisório e indicarão novas prioridades e metas, se necessário. 
-        Os critérios adotados para o monitoramento e a avaliação da PMAN serão descritos nos planos de ação, sendo também previstos no planejamento de programas, projetos e ações decorrentes desta Política. Com o intuito de analisar o processo de implementação da PMAN e de avaliar o atendimento aos objetivos e às metas propostas, os resultados e os impactos das ações desenvolvidas e a efetividade da PMAN no alcance do propósito e das diretrizes aqui assumidas, o monitoramento e a avaliação da PMAN deverão levar em consideração as informações disponíveis nos sistemas de informação em saúde e nos estudos de base populacional. Também deverá ser analisada a contribuição desta Política para a concretização da Política Nacional de Alimentação e Nutrição, dos princípios e das diretrizes do Sistema Único de Saúde e de outras políticas no seu âmbito. 
-        Balanços periódicos da implementação da PMAN deverão ser publicizados em eventos da rede municipal, bem como divulgados no portal da Prefeitura da Cidade do Rio de Janeiro na internet e em outras mídias disponíveis, visando à concretização do direito à informação.  
-
-
-
-
-
-
-        Glossário (em elaboração)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Bibliografia consultada
+  }
+]]
+
+dados2 = [
+  :diretriz => [
+    {
+      :titulo => "POLÍTICA MUNICIPAL DE ALIMENTAÇÃO E NUTRIÇÃO DA CIDADE DO RIO DE JANEIRO",
+      :tipo => "doc",
+      :paragrafos => [ 
+        {:texto => "Apresentação
+          A Política Nacional de Alimentação e Nutrição, publicada por meio da Portaria n.o 710 em junho de 1999 e referendada em 2003, consolidou-se como uma política setorial que instituiu diretrizes orientadoras com vistas a assegurar o Direito Humano à Alimentação Adequada (DHAA). Constitui-se na contribuição do setor saúde para a Política de Segurança Alimentar e Nutricional do país, instituída em 2010."},
+        {:texto =>"No ano de 2009, em um contexto comemorativo aos dez anos de publicação da PNAN e dos debates em torno da necessidade de sua atualização frente aos avanços e desafios ocorridos ao longo de sua trajetória, a cidade do Rio de Janeiro iniciou o processo de formulação da Política Municipal de Alimentação e Nutrição (PMAN). Este movimento refletiu o amadurecimento da implementação das diretrizes nacionais na cidade em um momento político favorável para a inserção da Alimentação e Nutrição na agenda do Sistema Único de Saúde (SUS) e para a temática de Segurança Alimentar e Nutricional (SAN) nos últimos anos. Esse momento se expressou na publicação da Política Nacional de Atenção Básica, da Política Nacional de Promoção da Saúde e da Lei Orgânica de Segurança Alimentar e Nutricional, em 2006; da Política Nacional de Segurança Alimentar e Nutricional e da mobilização em torno da Emenda Constitucional n.o 64 – ambas aprovadas em 2010 – além da própria revisão da Política Nacional de Alimentação e Nutrição, iniciada neste mesmo ano."},
+        {:texto =>  "Ao publicar a PMAN, a cidade do Rio de Janeiro ratifica o compromisso do setor saúde com a área de Alimentação e Nutrição, refletindo o amadurecimento do papel da saúde na agenda da SAN. Dada a complexidade dessa área, o objeto desta Política é necessariamente transversal, interdisciplinar e intersetorial. Assim, sendo uma política do setor saúde, a PMAN tem como desafio dialogar com outras políticas deste setor e com as demais políticas públicas desenvolvidas na cidade."},
+        {
+          :texto => "Portaria
+          Portaria n.o XXX, de XXX de XXX de 2011.
+          Aprova a Política Municipal de Alimentação e Nutrição.
+          O Secretário Municipal de Saúde e Defesa Civil, no uso de suas atribuições, e"
+        },
+        {:texto => "Considerando que a Constituição da República Federativa do Brasil de 1988 estabelece, em seu artigo n.o 196, a saúde como um direito de todos e dever do Estado;"},
+        {:texto => "Considerando que a Lei n.o 8.080 de 1990 define a alimentação como um dos fatores determinantes e condicionantes da saúde;"},
+        {:texto => "Considerando a aprovação da Emenda Constitucional n.o 64 de 2010, que incluiu a alimentação como direito social;"},
+        {:texto => "Considerando o compromisso do Brasil em promover o Direito Humano à Alimentação Adequada, conforme expresso em diferentes normas legais e documentos internacionais dos quais o país é signatário;"},
+        {:texto => "Considerando a Política Nacional de Alimentação e Nutrição, cujo propósito é “promover estado nutricional adequado, prevenir agravos relacionados à alimentação e nutrição, promover práticas alimentares adequadas e saudáveis e atuar na recuperação da saúde da população brasileira” (esse é o novo propósito);"},
+        {:texto => "Considerando que o setor saúde deve dispor de uma política expressa relacionada à alimentação e nutrição, resolve:"},
+        {:texto => "Art. 1.o Aprovar a Política Municipal de Alimentação e Nutrição, cuja íntegra consta do anexo desta Portaria e dela é parte integrante."},
+        {:texto => "Art. 2.o Determinar que os órgãos e entidades da Secretaria Municipal de Saúde e Defesa Civil, cujas ações se relacionem com o tema objeto da Política ora aprovada, promovam a elaboração ou a adequação de seus planos, programas, projetos e ações em conformidade com as diretrizes nela estabelecidas."},
+        {:texto => "Art. 3.o Esta Portaria entra em vigor na data de sua publicação."},
+        {:texto => "Hans Fernando Rocha Dohmann
+          Secretário Municipal de Saúde e Defesa Civil"},
+        {:texto => "Introdução
+          A formulação da PMAN considerou como pressuposto que cabe à Área Técnica de Alimentação e Nutrição da cidade do Rio de Janeiro formular políticas públicas contextualizadas às especificidades de seu território, além de planejar, implementar e avaliar as ações propostas pela esfera nacional. Nesse sentido, a publicação da PMAN visa à expansão, ao fortalecimento, à qualificação e à normatização das ações de alimentação e nutrição no âmbito municipal, bem como sua integração com outras ações e políticas que a potencializem. Constitui-se, ainda, em uma referência técnica, política e ética para os profissionais que atuam no setor saúde, na perspectiva da realização do DHAA."},
+        {:texto => "A alimentação saudável e adequada é considerada um dos direitos humanos fundamentais e, como tal, está legitimada por diversos mecanismos legais, documentos e pactos internacionais dos quais o Brasil é signatário, tais como a Declaração Universal dos Direitos Humanos, de 1948; o Pacto Internacional de Direitos Humanos, Econômicos, Sociais e Culturais, de 1966, e as Diretrizes Voluntárias sobre a realização progressiva do DHAA no contexto da SAN, aprovadas em 2004 1-4. É também reconhecido como uma condição para a concretização dos Objetivos de Desenvolvimento do Milênio. Com este compromisso, o Brasil incluiu o DHAA entre os direitos sociais em sua Constituição Federal de 1988 5 por meio da aprovação da Emenda Constitucional n.o 64, de 2010 6, e formulou a Política Nacional de Segurança Alimentar e Nutricional, publicada pelo Decreto n.o 7.272, de 2010 7."},
+        {:texto => "Além dessas bases legais, no âmbito do setor saúde, outras políticas também embasam a proposição da PMAN, identificando a área de Alimentação e Nutrição como prioridade política e ação estratégica. Entre elas, destacam-se: a Política Nacional de Alimentação e Nutrição 8, o Pacto pela Saúde (Portaria n.o 399, de 2006) 9, a Política Nacional de Promoção da Saúde (Portaria n.o 687, de 2006) 10 e a Política Nacional de Atenção Básica (Portaria n.o 648, de 2006) 11. "},
+        {:texto => "Face ao caráter interdependente, inalienável e indivisível dos direitos humanos, para a concretização do DHAA, é necessária a garantia dos demais direitos, como a saúde, a educação, o trabalho, a moradia digna, o saneamento básico, o acesso à terra, à renda e à água potável, de forma regular e permanente. Neste sentido, a plena realização da PMAN pressupõe a existência de outras políticas públicas dirigidas à garantia dos demais direitos 2, 3. "},
+          {:texto => "Além das estratégias voltadas para a garantia do direito de estar livre da fome, o direito à alimentação adequada também apresenta-se como desafio para as políticas públicas da atualidade face às mudanças ocorridas no padrão alimentar e no perfil nutricional da população. Na última década, no Brasil, tendo por base a disponibilidade intradomiciliar de alimentos e levando-se em conta a participação percentual dos alimentos ou grupos de alimentos na quantidade total de calorias disponíveis no domicílio, foram registrados: persistência de um teor excessivo de açúcar; aumento no aporte relativo de gorduras em geral e de gorduras saturadas; baixo consumo de frutas e hortaliças; diminuição da participação de arroz, feijão e farinha de mandioca e aumento da participação relativa de alimentos processados prontos para consumo (pães, embutidos, biscoitos, refrigerantes, refeições prontas) 12."},
+        {:texto => "Quanto ao estado nutricional, o país apresenta declínio acelerado na prevalência da desnutrição energético-protéica em crianças e adultos em todos os estratos econômicos sem, contudo, superar plenamente este agravo. Ao mesmo tempo, se observa aumento significativo do sobrepeso e da obesidade em todos os segmentos da população, além de outras doenças e agravos não transmissíveis (DANT), como o diabetes mellitus, a hipertensão arterial sistêmica e diversos tipos de câncer 13."},
+        {:texto => "Ainda que não se disponha de dados detalhados sobre o padrão alimentar da população carioca em seu conjunto, as informações disponíveis sugerem que a cidade do Rio de Janeiro acompanha a tendência nacional, apresentando o cenário descrito a seguir. Entre crianças, tem-se registrado aumento do aleitamento materno exclusivo em menores de seis meses de idade (de 13,8 para 41,0%) no período de 1996 a 2008. Por outro lado, ainda são frequentes a introdução precoce de outros alimentos que não o leite materno e o manejo inadequado da alimentação complementar, seja em relação à diversidade seja em relação à consistência dos alimentos e refeições oferecidas 14, 15."}, 
+        {:texto => "Entre os adolescentes cariocas alunos de escolas públicas municipais, observou-se, em 2007, o seguinte cenário para marcadores de alimentação saudável: 14,2% consumiam regularmente# saladas; 16,8%, legumes cozidos; 22,9%, frutas; 46,6%, leite e 75,7%, feijão. Já em relação aos marcadores de alimentação não saudável, foi registrado que 45,5% consumiam regularmente doces e balas; 40,7%, refrigerantes; 30,2%, biscoitos doces; 23,7%, biscoitos salgados e 20,3%, hambúrgueres. Soma-se a esses resultados, um panorama desfavorável em relação à prática regular de atividade física e lazer sedentário: somente 31,7% dos alunos acumulavam, pelo menos, 300 minutos de atividade física por semana (recomendação mínima para esta faixa etária), 5,8% eram totalmente inativos e somente 14,5% atendiam à recomendação de alocar menos de duas horas por dia em frente à televisão 16."},
+        {:texto => "Quanto ao perfil alimentar de adultos da cidade do Rio de Janeiro, foi encontrado, em 2010, que 29,3% consumiam regularmente frutas e hortaliças; 73,6%, feijão; e 32,2%, refrigerantes. Além disso, 27,5% relataram hábito de consumir carne com excesso de gordura# e 54,5%, leite com teor integral de gordura. No tocante à prática de atividade física, 31,5% acumulavam pelo menos 150 minutos dessas atividades por semana e 14,8% eram totalmente inativos. Quanto ao lazer sedentário, 31,9% assistiam à televisão por, pelo menos, três horas por dia 17."},
+        {:texto => "Segundo informações do Sistema de Vigilância Alimentar e Nutricional (SISVAN), cujos dados da cidade advêm fundamentalmente de usuários do Programa Bolsa Família, em 2010, 9,7% das crianças menores de sete anos de idade apresentavam baixa estatura para idade#; 5,7%, magreza e 32,3%, excesso de peso# 18. Entre adolescentes, inquérito realizado em 2009 com estudantes de escolas públicas e privadas da cidade do Rio de Janeiro registrou 2,5% de baixo peso e 27,2% de excesso de peso# 19. Entre os adultos, segundo dados do sistema de monitoramento de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (VIGITEL) em 2010, 52,7% apresentavam excesso de peso e 16,4%, obesidade# 17."},
+        {:texto => "Além do perfil alimentar e nutricional observado, outro desafio para as políticas públicas de alimentação e nutrição é o fato de a cidade ser uma grande metrópole com uma densa rede de serviços de saúde. Compõe essa rede: Unidades de Alta Complexidade (hospitais gerais, de emergência, psiquiátricos, pediátricos, geriátrico, maternidades de baixo e alto risco), Casa de Parto, Unidades de Pronto Atendimento, Centros de Atenção Psicossocial, Policlínicas, Centros Municipais de Saúde e Clínicas de Saúde da Família. Destaca-se, ainda, a ampliação em curso da Estratégia de Saúde da Família e a implantação dos Núcleos de Apoio à Saúde da Família (NASF) na cidade."},
+        {:texto => "Somada a tais características, a cidade conta ainda com o Instituto de Nutrição Annes Dias (INAD), órgão responsável pela coordenação da Área Técnica de Alimentação e Nutrição, institucionalizada com base nas diretrizes expostas na Política Nacional de Alimentação e Nutrição. Criado pelo Decreto n.o 13.555, de 13 de outubro de 1956 20, o INAD assumiu, até 1995, a função de responsável técnico pelo Programa de Alimentação Escolar desenvolvido na rede municipal de educação. No momento em que foi transferido para a Secretaria Municipal de Saúde e Defesa Civil pelo Decreto n.o 13.795 de abril de 1995 21, houve ampliação de sua missão institucional e de suas atribuições, formalizada pelo Decreto n.o 15.441 de 20 de dezembro de 1996 22, assumindo a gestão das ações de alimentação e nutrição desenvolvidas no município."},
+        {:texto => "Atualmente, o INAD está alocado na Superintendência de Promoção da Saúde, da Subsecretaria de Atenção Primária, Vigilância e Promoção da Saúde (SUBPAV), da Secretaria Municipal de Saúde e Defesa Civil (SMSDC) e desenvolve ações com outros setores e instituições da municipalidade. Segundo o Decreto n.o 32.673, de 19 de agosto de 2010 23, caberá ao INAD o papel de coordenação da PMAN."},
+        {:texto => "Este é o contexto no qual foram definidas as prioridades e as ações que serão objeto desta Política face à necessidade de se consolidar uma agenda de alimentação e nutrição na cidade que dê resposta à complexidade do perfil alimentar e nutricional, e sua interrelação com a saúde da população."},
+        {:texto => "Processo de construção da Política Municipal de Alimentação e Nutrição
+        A construção da PMAN consistiu em um processo participativo e democrático que envolveu atores e instituições governamentais e não-governamentais. Foi liderado pela Área Técnica de Alimentação e Nutrição do município do Rio de Janeiro – o INAD – e agregou diferentes atores da sociedade civil organizada e do Poder Público, além de estudantes, profissionais de saúde e de áreas afins, e instituições acadêmicas. Entre elas, cabe ressaltar, o Instituto de Nutrição da Universidade do Estado do Rio de Janeiro (UERJ), por meio do Programa Nacional de Reorientação da Formação Profissional em Saúde (Pró-Saúde), que apoiou o delineamento da formulação da PMAN e as ações envolvidas neste processo, como seminários, grupos de trabalho, oficinas e redação dos documentos relacionados à Política."},
+        {:texto => "Iniciado com a realização do seminário “Para pensar a Política Municipal de Alimentação e Nutrição”, em junho de 2009, o processo de formulação da PMAN prosseguiu com a formação de seis Grupos de Trabalho temáticos, orientados pelas diretrizes da Política Nacional de Alimentação e Nutrição e compostos por atores que se propuseram a participar de um contínuo processo de discussão e de aprofundamento das questões apontadas no seminário. Esse processo de trabalho também contou com a contribuição de nutricionistas da rede municipal de saúde em fóruns de discussão e com consultas a especialistas, instituições afins à área de alimentação e nutrição e instâncias de controle social."},
+        {:texto => "Em maio de 2011, foi realizada a Oficina “Controle social e a PMAN”, com o intuito de subsidiar a construção dos aspectos referentes ao controle social na PMAN. Neste momento, foram convidados representantes do Conselho Municipal de Saúde (COMS), do Conselho Municipal de Segurança Alimentar e Nutricional (CONSEA-Rio) e do Conselho Municipal de Alimentação Escolar (CAE). Posteriormente, foi realizada uma oficina consultiva, com especialistas cuja atuação tivesse interface com o objeto da Política. Participaram organizações da sociedade civil organizada, SMSDC (INAD, representantes de gerências de programas, nutricionistas da rede hospitalar municipal), o Centro de Segurança Alimentar da Fazenda Modelo (CSAFM) da Escola Carioca de Agricultura Familiar (ECAF), instituições de ensino e de pesquisa, além do Instituto Nacional do Câncer (INCA), da Organização Panamericana de Saúde (OPAS) e da Coordenação Geral de Alimentação e Nutrição (CGAN).
+        (completar com consulta pública)"},
+        {:texto => "Princípios gerais
+        A PMAN concretiza a Política Nacional de Alimentação e Nutrição na cidade do Rio de Janeiro e assume como princípios gerais: os princípios do Sistema Único de Saúde instituídos pela Lei n.o 8.080/1990 24; a garantia da Segurança Alimentar e Nutricional da população no contexto do Direito Humano à Alimentação Adequada, incluindo o respeito à soberania alimentar e a sustentabilidade sócio-ambiental; o respeito à diversidade; a humanização; a ação interdisciplinar e intersetorial; o direito à informação e a promoção da autonomia dos indivíduos; a construção coletiva, a gestão participativa e a transparência nos processos de trabalho; a sustentabilidade das ações e a independência da PMAN em relação aos setores e instituições que tenham interesses conflitantes com a área de Alimentação e Nutrição em Saúde Coletiva."},
+        {:texto => "Propósito 
+        Estimular, apoiar e proteger a alimentação adequada e saudável e realizar ações de prevenção de agravos relacionados à alimentação e nutrição e de cuidado da saúde, em todas as fases do curso da vida, promovendo o estado nutricional adequado e a melhoria da qualidade de vida da população, a fim de concretizar, desta maneira, o papel do setor saúde na garantia do Direito Humano à Alimentação Adequada na cidade do Rio de Janeiro."},
+        {:texto => "Diretrizes
+        Cooperação e articulação para promoção do acesso universal à alimentação adequada e saudável"},
+        {:texto => "Esta diretriz concretiza a compreensão de que a promoção do acesso universal aos alimentos exige a realização de ações intra e intersetoriais articuladas. Nesse sentido, considera que o setor saúde deverá se articular com outros setores e instituições existentes na municipalidade para implementar e fortalecer as propostas aqui previstas. Além disso, estabelece as ações necessárias para garantir o acesso à alimentação saudável nos programas de alimentação e nutrição desenvolvidos na municipalidade, com especial atenção ao atendimento das necessidades alimentares especiais dos cariocas. Desta forma, os eixos previstos nesta diretriz da PMAN são: Articulação para a realização de ações intra e intersetoriais; Universalização e aprimoramento dos programas de alimentação e nutrição; Atenção aos grupos populacionais com necessidades alimentares especiais e em situações de desastres naturais."},
+        {:texto => "Organização e implementação do cuidado nutricional com vistas à prevenção, ao acompanhamento e ao controle dos agravos nutricionais e os relacionados à alimentação e nutrição"},
+        {:texto => "Esta diretriz volta-se para os programas e ações de alimentação e nutrição que deverão ser implementados e fortalecidos no setor saúde, a fim de garantir a adequada atenção nutricional a indivíduos sadios e enfermos. Contempla os serviços de saúde dos diferentes níveis de complexidade do SUS e também o nível central, ou seja, a gestão das ações de alimentação e nutrição desenvolvidas no município. Neste sentido, contempla os seguintes eixos de atuação: Implementação do cuidado nutricional nas redes de atenção à saúde nas diferentes fases do curso da vida; Garantia do direito à alimentação adequada nos agravos nutricionais e os relacionados à alimentação e nutricionais e nas necessidades alimentares especiais; Organização das ações de alimentação e nutrição nos diferentes níveis de complexidade do SUS."},
+        {:texto => "Garantia da segurança, da qualidade do alimento e da prestação de serviços de alimentação e nutrição"},
+        {:texto => "Nesta diretriz, a preocupação volta-se especialmente para ações de fiscalização, de monitoramento e de orientação de serviços de alimentação e nutrição da municipalidade. Os eixos são: Acesso à informação sobre as boas práticas no sistema agroalimentar; Fiscalização e monitoramento da qualidade dos alimentos em todo sistema agroalimentar; Garantia da qualidade do Leite Humano ordenhado."},
+        {:texto => "Promoção de alimentação adequada e saudável"},
+        {:texto => "Esta diretriz contempla as ações de promoção de práticas alimentares e de estilos de vida saudáveis, compreendendo o aleitamento materno como a primeira prática de alimentação saudável da vida. Considera que a promoção da alimentação saudável inclui não apenas as ações voltadas ao incentivo, tradicionalmente utilizadas no âmbito dos serviços de saúde, como também àquelas que visam a garantir o apoio e a proteção das práticas e dos estilos de vida saudáveis adotados pelos cariocas. Neste sentido, contempla os seguintes eixos de atuação: Incentivo à PAS; Apoio à alimentação saudável; Proteção da alimentação saudável."},
+        {:texto => "Monitoramento e sistemas de informação"},
+        {:texto => "Nesta diretriz, a atenção volta-se à implementação e à consolidação das ações de vigilância alimentar e nutricional da população carioca, incluindo o fortalecimento do Sistema de Vigilância Alimentar e Nutricional e sua expansão para indivíduos em todas as fases do curso da vida. Tem como eixo: Monitoramento da situação alimentar e nutricional da população. "},
+        {:texto => "Estímulo à pesquisa, inovação, produção e difusão do conhecimento relacionado à área de Alimentação e Nutrição"},
+        {:texto => "Esta diretriz provoca a integração entre as universidades, centros de pesquisa e outros atores, como movimentos sociais, com o serviço, no sentido de definir prioridades de pesquisa e de qualificar as ações de alimentação e nutrição desenvolvidas na cidade. Expressa o compromisso com a democratização do conhecimento, sendo uma diretriz transversal, que deve permear e apoiar a concretização das demais diretrizes. Volta-se para a pesquisa aplicada, adotando-se como linhas de investigação norteadoras: o perfil e monitoramento da saúde, alimentação e nutrição dos públicos de interesse para as políticas públicas de Alimentação e Nutrição; o monitoramento e a avaliação de processo bem como do impacto de ações, programas e políticas e o delineamento e a experimentação de modelos e de tecnologias inovadores. Esta diretriz apresenta como eixos: Definição de prioridades e promoção de oportunidades de pesquisa; Democratização do conhecimento produzido; Financiamento."},
+        {:texto => "Formação e qualificação da força de trabalho"},
+        {:texto => "Esta diretriz aponta que a formação e a qualificação dos profissionais cuja atuação tenha interface com a área de Alimentação e Nutrição constitui uma responsabilidade compartilhada entre academia e serviço, defendendo e valorizando a aprendizagem no trabalho. É também uma diretriz transversal, que deve apoiar as outras diretrizes da PMAN. Apresenta como proposta a reorientação das práticas profissionais de atenção à saúde baseadas na reflexão crítica. Os eixos são: Formação para o serviço; Integração academia-serviço. "},
+        {:texto => "Institucionalização da PMAN"},
+        {:texto => "Esta diretriz aborda questões referentes à institucionalidade da PMAN, incluindo aspectos referentes ao financiamento, relações com outros setores e outras instâncias de governo, além da participação e do controle social da PMAN e do monitoramento e da avaliação das ações propostas. É constituída pelos seguintes eixos: Desenvolvimento institucional; Participação e controle social; Monitoramento e avaliação da PMAN. "},
+        {:texto => "Responsabilidades institucionais
+        Responsabilidades da SMSDC:"},
+        {:texto => "1) Planejar, implementar e avaliar a Política Municipal de Alimentação e Nutrição."},
+        {:texto => "2) Ampliar e qualificar a rede municipal de serviços de alimentação e nutrição em todos os níveis de atenção à saúde."},
+        {:texto => "3) Pautar a agenda de alimentação e nutrição junto a outros setores da municipalidade, instituições públicas e privadas e instâncias de controle social."},
+        {:texto => "4) Promover a articulação necessária com setores da municipalidade e outras instituições para a implementação da PMAN."},
+        {:texto => "5) Produzir, sistematizar e divulgar informações que subsidiem tanto a elaboração de políticas do setor saúde e de outros setores, quanto o monitoramento de sua efetividade, na área de alimentação e nutrição."},
+        {:texto => "6) Estimular a participação social para o controle, a fiscalização, o monitoramento e a avaliação da PMAN."},
+        {:texto => "7) Garantir a estrutura organizacional da Área Técnica de Alimentação e Nutrição."},
+        {:texto => "Compete ao INAD:"},
+        {:texto => "1) Coordenar a implementação e a avaliação da PMAN, articulando ações intra e intersetoriais."},
+        {:texto => "2) Planejar, implementar e avaliar os programas e as ações de alimentação e nutrição no âmbito do setor saúde."},
+        {:texto => "3) Planejar, normatizar, implementar, acompanhar e avaliar os serviços de alimentação e nutrição nas unidades da rede municipal de saúde, contemplando ações de promoção de saúde, de prevenção e de controle de doenças relacionadas à alimentação e nutrição e de intervenção nutricional da população hospitalizada e daquela atendida no âmbito ambulatorial."},
+        {:texto => "4) Organizar a rede municipal de serviços de alimentação e nutrição de forma regionalizada, de acordo com os níveis de complexidade de atenção e centrada nas necessidades dos usuários."},
+        {:texto => "5) Normatizar e assessorar o planejamento e a execução dos programas de alimentação e nutrição dirigidos a coletividades desenvolvidos no âmbito da Prefeitura da Cidade do Rio de Janeiro (PCRJ), subsidiando tecnicamente os projetos de infraestrutura das unidades de alimentação e nutrição, os processos de aquisição de gêneros alimentícios e produtos alimentícios/nutricionais, de produção de refeições e de contratação de serviços; "},
+        {:texto => "6) Normatizar e executar ações de controle de qualidade de gêneros alimentícios e produtos alimentícios/nutricionais, serviços e refeições dos programas municipais de alimentação e nutrição;"},
+        {:texto => "7) Fomentar, realizar e divulgar pesquisas na área de alimentação, nutrição e saúde;"},
+        {:texto => "8) Planejar, coordenar e acompanhar as atividades de caráter técnico, científico e cultural inerentes à Área Técnica de Alimentação e Nutrição."},
+        {:texto => "À SMSDC caberá se articular com demais setores da municipalidade, a fim de implementar as ações propostas na PMAN na cidade do Rio de Janeiro. O estabelecimento de parcerias intra e intersetoriais se dará no sentido de concretizar o propósito que a PMAN assume neste documento: “Estimular, apoiar e proteger a alimentação adequada e saudável e realizar ações de prevenção de agravos relacionados à alimentação e nutrição e de cuidado da saúde, em todas as fases do curso da vida, promovendo o estado nutricional adequado e a melhoria da qualidade de vida da população, a fim de concretizar, desta maneira, o papel do setor saúde na garantia do Direito Humano à Alimentação Adequada na cidade do Rio de Janeiro”. Foram identificadas questões prioritárias, bem como setores estratégicos para a implementação da Política. "},
+        {:texto => "Conselho Municipal de Saúde (COMS), Conselho Municipal de Alimentação Escolar (CAE) e Conselho Municipal de Segurança Alimentar e Nutricional (CONSEA) "},
+        {:texto => "Esta parceria buscará estimular, apoiar e subsidiar as ações de monitoramento e de fiscalização das instâncias de controle social cuja atuação tenha interface com as diretrizes da PMAN."},
+        {:texto => "Secretaria Especial de Desenvolvimento Econômico e Solidário (SEDES)"},
+        {:texto => "A parceria com esta Secretaria buscará apoiar as iniciativas de promoção do acesso da população ao alimento saudável por meio do circuito carioca de feiras orgânicas e articulação com outras ações de economia solidária."},
+        {:texto => "Secretaria Especial de Envelhecimento Saudável e Qualidade de Vida (SESQV)"},
+        {:texto => "A articulação visará fortalecer as estratégias de promoção de alimentação saudável coadunadas com as ações desenvolvidas por esta Secretaria."},
+        {:texto => "Secretaria Especial de Ordem Pública (SEOP)"},
+        {:texto => "A parceria com esta Secretaria buscará apoiar as iniciativas de promoção do acesso da população ao alimento saudável por meio de feiras livres."},
+        {:texto => "Secretaria Municipal de Assistência Social (SMAS)"},
+        {:texto => "A articulação com esta Secretaria buscará:"},
+        {:texto => "- identificar situações de insegurança alimentar e nutricional e desenvolver estratégias conjuntas de acompanhamento da população em situação de vulnerabilidade social. "},
+        {:texto => "- apoiar o delineamento e a realização de estudos e pesquisas na área de alimentação e nutrição voltada à população atendida por esta Secretaria. "},
+        {:texto => "- apoiar a formação de profissionais sobre temáticas de interesse para a área de alimentação e nutrição, inclusive sobre a garantia do DHAA e mecanismos de exigibilidade. "},
+        {:texto => "Secretaria Municipal de Cultura (SMC)
+        A parceria com esta Secretaria visará valorizar a cultura alimentar brasileira por meio da difusão, reconhecimento e resgate de práticas culinárias tradicionais, com destaque para a cultura carioca."},
+        {:texto => "Secretaria Municipal de Educação (SME)
+        A parceria com esta Secretaria visará:"},
+        {:texto => "- à permanente qualificação do Programa de Alimentação Escolar."},
+        {:texto => "- incluir temáticas relacionadas à saúde e à alimentação e nutrição nos currículos escolares. "},
+        {:texto => "- estimular e apoiar a realização de ações educativas voltadas para a promoção da alimentação saudável na comunidade escolar. "},
+        {:texto => "- favorecer o desenvolvimento de ações que promovam e garantam a adoção de práticas alimentares mais saudáveis no ambiente escolar."},
+        {:texto => "- subsidiar a formação dos profissionais de educação sobre temáticas de interesse para a área de alimentação e nutrição."},
+        {:texto => "Secretaria Municipal de Esporte e Lazer (SMEL)
+        A parceria com esta Secretaria visará promover a saúde da população com a sinergia das ações de esporte e de lazer e da alimentação saudável na cidade. "},
+        {:texto => "Secretaria Municipal de Meio Ambiente (SMAC)
+        A parceria com esta Secretaria buscará apoiar as iniciativas de promoção da agricultura urbana como estratégia de promoção de alimentação saudável."},
+        {:texto => "Secretaria Municipal de Pessoa com Deficiência (SMPD)
+          A parceria com esta Secretaria buscará a proposição e realização de ações voltadas ao acesso à alimentação adequada das pessoas com deficiência. "},
+        {:texto => "Secretaria Municipal do Trabalho e Emprego (SMTE)
+        A parceria com esta Secretaria visará à implementação, ao monitoramento e à avaliação do Programa de Alimentação do Trabalhador na PCRJ."},
+        {:texto => "Acompanhamento e avaliação
+        O processo de acompanhamento e de avaliação da PMAN – essencial para a produção de informações que possam qualificar e subsidiar o processo decisório – deverá ocorrer de maneira democrática e transparente, envolvendo atores e instituições cuja atuação esteja relacionada ao objeto desta Política. Nesse sentido, deverá incluir, além da gestão municipal e dos setores relacionados, as instâncias de controle social, as instituições de ensino e de pesquisa e as organizações da sociedade civil. Para tanto, deverão ser criadas oportunidades e fóruns, incluindo a constituição do “Observatório da PMAN”, que alimentarão o processo decisório e indicarão novas prioridades e metas, se necessário. "},
+        {:texto => "Os critérios adotados para o monitoramento e a avaliação da PMAN serão descritos nos planos de ação, sendo também previstos no planejamento de programas, projetos e ações decorrentes desta Política. Com o intuito de analisar o processo de implementação da PMAN e de avaliar o atendimento aos objetivos e às metas propostas, os resultados e os impactos das ações desenvolvidas e a efetividade da PMAN no alcance do propósito e das diretrizes aqui assumidas, o monitoramento e a avaliação da PMAN deverão levar em consideração as informações disponíveis nos sistemas de informação em saúde e nos estudos de base populacional. Também deverá ser analisada a contribuição desta Política para a concretização da Política Nacional de Alimentação e Nutrição, dos princípios e das diretrizes do Sistema Único de Saúde e de outras políticas no seu âmbito. "},
+        {:texto => "Balanços periódicos da implementação da PMAN deverão ser publicizados em eventos da rede municipal, bem como divulgados no portal da Prefeitura da Cidade do Rio de Janeiro na internet e em outras mídias disponíveis, visando à concretização do direito à informação."},
+        {:texto => "Glossário (em elaboração)"},
+        {:texto => "Bibliografia consultada
         Brasil. Ministério da Saúde. Dialogando sobre o direito humano à alimentação adequada no contexto do SUS. Brasília: MS; 2010.
         Burity V, Franceschini T, Valente F, Recine E, Leão M, Carvalho MF. Direito humano à alimentação adequada no contexto da segurança alimentar e nutricional. Brasília: ABRANDH; 2010. 
         Valente, F. Direito Humano à Alimentação: desafios e conquistas. São Paulo: Cortez Editora; 2002. 
@@ -951,11 +769,11 @@ dados = [ :diretriz => [
         Prefeitura da Cidade do Rio de Janeiro. Decreto n. o 13.795 de abril de 1995.
         Prefeitura da Cidade do Rio de Janeiro. Decreto n. o 15.441 de 20 de dezembro de 1996.
         Prefeitura da Cidade do Rio de Janeiro. Decreto n. o 32.673 de 19 de agosto de 2010.
-        Brasil. Lei n. o 8080 de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Diário Oficial da União 1990; 19 set.
-      }
-    ]
-  }
-]]
+        Brasil. Lei n. o 8080 de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Diário Oficial da União 1990; 19 set."}
+      ]
+    }  
+  ]
+]
 
 dados.each do |atributos|
   atributos[:diretriz].each do |diretriz|
@@ -973,6 +791,16 @@ dados.each do |atributos|
          @acao.atores.create! :texto => ator
        end
      end
+    end
+  end
+end
+
+dados2.each do |atributos|
+  atributos[:diretriz].each do |diretriz|
+    p "Criando diretriz: " << diretriz[:titulo]
+    @diretriz = Diretriz.create! :titulo => diretriz[:titulo], :tipo => diretriz[:tipo]
+    diretriz[:paragrafos].each do |paragrafo|
+      @diretriz.paragrafos.create! :texto => paragrafo[:texto]
     end
   end
 end

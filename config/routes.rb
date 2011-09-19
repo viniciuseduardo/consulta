@@ -9,6 +9,7 @@ Consulta::Application.routes.draw do
   end
   
   resources :diretrizes do
+    resources :paragrafos
     resources :eixos do
       resources :acoes do
         resources :estrategias

@@ -7,9 +7,10 @@ class DiretrizesController < ApplicationController
   def show
     @diretriz = Diretriz.find(params[:id])
 
-    respond_to do |format|
-      format.html # show.html.erb
-      format.json { render json: @proposta }
+    if @diretriz.tipo == "matriz"
+      render 'diretrizes/show'
+    else
+      render 'diretrizes/doc'
     end
   end
 end
