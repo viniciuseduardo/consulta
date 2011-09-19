@@ -46,3 +46,11 @@ table.sample td {
 	border-color: black;
 	-moz-border-radius: ;
 }
+
+.rodape{
+	text-align: center;
+}
+
+.rodape p{
+	margin: 0 0 0 0;
+}
