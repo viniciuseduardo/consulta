@@ -4,7 +4,7 @@
 	</FONT>
 </P>
 <% @diretriz.paragrafos.each do |paragrafo|%>
-<p><%= paragrafo.texto%><p>
+<p><%= simple_format(paragrafo.texto)%><p>
 <b><%= paragrafo.comentarios.count %> Contribuições</b>
 <%= link_to "Contribuir", diretrize_paragrafo_path(@diretriz,paragrafo) %>
 <% end%>
