@@ -1,7 +1,8 @@
 class DiretrizesController < ApplicationController
   before_filter :authenticate_user!, :except => [:index]
   def index
-    @diretrizes = Diretriz.all
+    @documentos = Diretriz.all(conditions: { tipo: "doc" }).order_by([[:_id, :asc]])
+    @diretrizes = Diretriz.excludes(tipo: "doc" )  
   end
 
   def show

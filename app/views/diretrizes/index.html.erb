@@ -1,5 +1,49 @@
-<p>Baixar documento completo <a href="/download_pdf">clique</a>.</p>
+<p>Baixar documento completo <a href="/download_pdf_pman">clique</a>.</p>
 <div id="box-lista-consulta">
+  <table class="sample">
+	<colgroup>
+		<col width="600">
+	</colgroup>	
+	<thead>
+		<tr valign="TOP">
+			<td colspan="2">
+				<p align="CENTER" style="font-style: normal"><font face="Arial, sans-serif"><b>POLÍTICA MUNICIPAL DE ALIMENTAÇÃO E NUTRIÇÃO - PMAN</b></font></p>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+	        	<p class="resumo">Lista de abreviaturas</p>
+			</td>
+			<td>
+	        <%=
+	          link_to "Ver", download_pdf_lista_path
+	      	%>
+			</td>
+		</tr>	
+    	<% @documentos.each do |documento| %>
+      	<tr>
+			<td>
+        		<p class="resumo"><%= documento.titulo %></p>
+			</td>
+			<td>
+        		<%=link_to "Contribuir", diretrize_path(documento)%>
+			</td>
+      	</tr>
+    	<% end %>
+		<tr>
+			<td>
+	        	<p class="resumo">Notas e Bibliografia consultada</p>
+			</td>
+			<td>
+	        <%=
+	          link_to "Ver", download_pdf_notas_path
+	      	%>
+			</td>
+		</tr>
+	</tbody>
+  </table>	
   <table class="sample">
 	<colgroup>
 		<col width="600">
@@ -13,16 +57,14 @@
 	</thead>
 	<tbody>
     <% @diretrizes.each do |diretriz| %>
-      <tr>
-		<td>
-        	<p class="resumo"><%= diretriz.titulo %></p>
-		</td>
-		<td>
-        <%=
-          link_to "Contribuir", diretrize_path(diretriz)
-      	%>
-		</td>
-      </tr>
+      	<tr>
+			<td>
+        		<p class="resumo"><%= diretriz.titulo %></p>
+			</td>
+			<td>
+        		<%= link_to "Contribuir", diretrize_path(diretriz) %>
+			</td>
+      	</tr>
     <% end %>
 	</tbody>
   </table>

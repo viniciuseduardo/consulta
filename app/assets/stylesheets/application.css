@@ -1,3 +1,6 @@
+html body{font: Calibri, Helvetica, sans-serif;}
+html>body{font: Calibri, Helvetica, sans-serif;}
+
 .introducao{
 	padding-left: 30px;
 	margin-right: 60px;

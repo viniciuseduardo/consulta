@@ -53,7 +53,7 @@
 	<tbody>
 		<% @diretriz.eixos.each do |eixo| %>
 		<tr valing="top">
-			<td style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<td style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm; vertical-align: top;">
 				<p align="CENTER" style="font-style: normal"><b><%= eixo.texto %></b></p>
 				<b><%= eixo.comentarios.count %> Contribuições</b>
 				<%= link_to "Contribuir", diretrize_eixo_path(@diretriz,eixo) %>
@@ -64,7 +64,7 @@
 						eixo.acoes.each do |acao|						
 					%>
 					<tr valing="top">
-						<td valing="top" width="433" style="border-right: 1px solid;">
+						<td valing="top" width="433" style="border-right: 1px solid; vertical-align: top;">
 							<p align="JUSTIFY" ><%= acao.texto %></p>
 							<b><%= acao.comentarios.count %> Contribuições</b>
 							<%= link_to "Contribuir", diretrize_eixo_aco_path(@diretriz, eixo, acao) %>
@@ -72,14 +72,14 @@
 						<td>
 							<table>
 								<tr>
-									<td width="334" style="border-right: 1px solid;">
+									<td width="334" style="border-right: 1px solid; vertical-align: top;">
 										<% acao.estrategias.each do |estrategia| %>
 										<p align="JUSTIFY"><%= estrategia.texto %></p>
 										<b><%= estrategia.comentarios.count %> Contribuições</b>
 										<%= link_to "Contribuir", diretrize_eixo_aco_estrategia_path(@diretriz, eixo, acao, estrategia) %>
 										<% end %>
 									</td>
-									<td width="269">
+									<td width="269" style="vertical-align: top;">
 										<% acao.atores.each do |ator| %>
 										<p align="JUSTIFY"><%= ator.texto %></p>
 										<b><%= ator.comentarios.count %> Contribuições</b>
