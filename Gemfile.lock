@@ -81,6 +81,7 @@ GEM
       mongoid (~> 2.0)
       rspec (~> 2)
     multi_json (1.0.3)
+    nifty-generators (0.4.6)
     notifiers (1.1.0)
     orm_adapter (0.0.5)
     polyglot (0.3.2)
@@ -162,6 +163,7 @@ DEPENDENCIES
   launchy
   mongoid (>= 2.0.0.beta.19)
   mongoid-rspec
+  nifty-generators
   rails (= 3.1.0)
   rspec-rails (>= 2.0.1)
   sass-rails (~> 3.1.0)

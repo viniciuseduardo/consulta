@@ -16,6 +16,7 @@ gem "devise"
 gem "bson_ext"
 gem "mongoid", ">= 2.0.0.beta.19"
 gem "rspec-rails", ">= 2.0.1", :group => [:development]
+gem "nifty-generators", :group => :development
 
 group :test do
   gem "rspec-rails",">= 2.0.1"
