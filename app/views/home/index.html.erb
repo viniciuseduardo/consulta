@@ -4,7 +4,9 @@
 	<p>Com o intuito de garantir a transparência e a participação social, estamos iniciando o período de realização da consulta pública, com vistas a coletar contribuições que subsidiem a elaboração do texto final da PMAN, tanto de setores especializados quanto da sociedade em geral, possibilitando ampla discussão. Gostaríamos de convidá-lo para colaborar com este importante processo de construção coletiva. As sugestões poderão ser feitas por meio de plataforma até às 24h do dia 26 de outubro de 2011.</p>
 	<h4>Orientações</h4>
 	<p>Para obter a íntegra do anteprojeto da PMAN <a href="/download_pdf_pman">clique aqui</a>. Sugerimos a leitura deste material para compreender os objetivos e como está estruturada a PMAN.</p>
-	<p>Para realizar contribuições é necessário se cadastrar na plataforma e fazer o login. <%= link_to "Clique aqui", join_path %> para fazer o seu cadastro [colocar link para formulário de cadastro].</p>
+	<% if !user_signed_in? %>	
+	<p>Para realizar contribuições é necessário se cadastrar na plataforma e fazer o login. <%= link_to "Clique aqui", join_path %> para fazer o seu cadastro.</p>
+	<% end %>
 	<p>Em algumas seções há letras minúsculas e números entre colchetes. As letras são notas ao texto e os números são as entradas das referências bibliográficas. Tanto as notas como as referências estão reunidas em um arquivo próprio.</p>
 	<p>Agradecemos a sua participação. Suas opiniões serão muito bem-vindas!</p>
 	<h4>Alimentação saudável – um direito humano</h4>
